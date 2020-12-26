@@ -1,6 +1,6 @@
 package chapter04;
 
-import static chapter03.ShortPrint.print;
+import static Print.ShortPrint.print;
 
 public class BreakAndContinue {
     public static void main(String[] args) {

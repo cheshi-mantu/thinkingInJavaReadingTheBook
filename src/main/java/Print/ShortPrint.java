@@ -1,4 +1,4 @@
-package chapter03;
+package Print;
 
 /**Wraps System.out.println to shorter print
  *

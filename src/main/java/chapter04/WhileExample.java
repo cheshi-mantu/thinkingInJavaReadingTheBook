@@ -1,6 +1,6 @@
 package chapter04;
 
-import static chapter03.ShortPrint.print;
+import static Print.ShortPrint.print;
 
 public class WhileExample {
     static boolean condition(){

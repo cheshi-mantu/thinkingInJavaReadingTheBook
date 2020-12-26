@@ -2,8 +2,8 @@ package chapter04;
 
 import java.util.Random;
 
-import static chapter03.ShortPrint.print;
-import static chapter03.ShortPrint.printb;
+import static Print.ShortPrint.print;
+import static Print.ShortPrint.printb;
 
 public class SwitchExample {
     public static void main(String[] args) {

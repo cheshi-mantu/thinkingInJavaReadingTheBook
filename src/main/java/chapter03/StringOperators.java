@@ -1,6 +1,6 @@
 package chapter03;
 
-import static chapter03.ShortPrint.print;
+import static Print.ShortPrint.print;
 
 public class StringOperators {
     public static void main(String[] args) {

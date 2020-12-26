@@ -1,6 +1,6 @@
 package chapter04;
 
-import static chapter03.ShortPrint.print;
+import static Print.ShortPrint.print;
 
 public class ForExapmpleListChars {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package chapter05;
 
-import static chapter03.ShortPrint.print;
+import static Print.ShortPrint.print;
 
 /** Constructor and constructor overloading example
  *

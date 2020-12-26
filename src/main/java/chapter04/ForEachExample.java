@@ -2,7 +2,7 @@ package chapter04;
 
 import java.util.Random;
 
-import static chapter03.ShortPrint.print;
+import static Print.ShortPrint.print;
 
 public class ForEachExample {
     public static void main(String[] args) {
