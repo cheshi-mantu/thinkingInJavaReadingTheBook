@@ -4,7 +4,7 @@ package chapter03;
  *
  */
 public class ShortPrint {
-    static void print(String stringToPrintln){
+    public static void print(String stringToPrintln){
         System.out.println(stringToPrintln);
     }
 }
