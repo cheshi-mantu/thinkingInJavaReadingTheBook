@@ -12,6 +12,14 @@ public class IfElseExample {
         else
             result = 0;
     }
+    static int testReturn (int testVal, int target){
+        if (testVal > target)
+            return +1;
+        else if (testVal < target)
+            return -1;
+        else
+            return 0;
+    }
     public static void main(String[] args) {
         test(10,5);
         print("" + result);
@@ -19,5 +27,10 @@ public class IfElseExample {
         print("" + result);
         test(5,5);
         print("" + result);
+
+        print("" + testReturn(10,5));
+        print("" + testReturn(5,10));
+        print("" + testReturn(10,10));
+
     }
 }
